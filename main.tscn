@@ -5,6 +5,6 @@
 [node name="Main" type="Node2D"]
 
 [node name="JlmLesgrainesdoiseaux" type="Sprite2D" parent="."]
-position = Vector2(260, 219)
+position = Vector2(601, 230)
 scale = Vector2(0.153846, 0.153846)
 texture = ExtResource("1_vy3aa")
